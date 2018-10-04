@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GB2312" standalone="no"?><exam>
+    <student examid="222049" idcard="5002351989">
+        <name>谢能</name>
+        <location>北京</location>
+        <grade>78.9</grade>
+    </student>
+    
+    <student examid="34566" idcard="53453">
+        <name>ww</name>
+        <location>重庆</location>
+        <grade>99.9</grade>
+    </student>
+    
+<student examid="34566" idcard="53453"><name>王五</name><location>重庆</location><grade>99.9</grade></student><student examid="345666" idcard="53453"><name>王五1</name><location>重庆</location><grade>99.9</grade></student></exam>
